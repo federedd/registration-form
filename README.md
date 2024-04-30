@@ -2,7 +2,7 @@
 
 This project is a simple HTML registration form aimed at practicing forms and HTML semantic tags.
 
-[!Demo image](./images/registration-form-demo.png)
+![Demo image](./images/registration-form-demo.png)
 
 ## Features
 
